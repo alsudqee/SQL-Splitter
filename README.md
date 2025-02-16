@@ -14,7 +14,7 @@ To use this tool, you'll need Python 3.x installed on your system. It can be run
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/SQL-Splitter.git
+   git clone https://github.com/alsudqee/SQL-Splitter.git
    cd SQL-Splitter
    ```
 
